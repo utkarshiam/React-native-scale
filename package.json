@@ -1,0 +1,11 @@
+{
+  "name": "rn-scaling",
+  "version": "1.0.0",
+  "description": "Scale the react native according to window dimensions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
